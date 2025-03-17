@@ -1,18 +1,14 @@
 {
 	"@type":"Hierarchy",
-	"Name":"b1",
+	"Name":"a2",
 	"Elements":
 	[
 		{
-			"Name":"d",
+			"Name":"a21",
 			"Type":"Numeric"
 		},
 		{
-			"Name":"e",
-			"Type":"Numeric"
-		},
-		{
-			"Name":"f",
+			"Name":"a22",
 			"Type":"Numeric"
 		}
 	],

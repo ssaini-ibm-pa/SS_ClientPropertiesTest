@@ -1,13 +1,13 @@
 {
 	"@type":"Cube",
-	"Name":"aa",
+	"Name":"aa2",
 	"Dimensions":
 	[
 		{
-			"@id":"Dimensions('a1')"
+			"@id":"Dimensions('a2')"
 		},
 		{
-			"@id":"Dimensions('b1')"
+			"@id":"Dimensions('b2')"
 		}
 	],
 	"Views@Code.links":[]
